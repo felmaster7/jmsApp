@@ -22,7 +22,7 @@ import javax.xml.soap.Text;
 public class ProdutorJms extends HttpServlet {
 
 	
-	@Resource(lookup = "java:/myjms/Mycon")
+	@Resource(lookup = "java:/myjms/mycon")
 	ConnectionFactory connectionFactory;
 	
 	@Resource(lookup = "java:/myjms/myqueue")

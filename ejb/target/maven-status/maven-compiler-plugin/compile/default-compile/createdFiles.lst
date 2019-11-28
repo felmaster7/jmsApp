@@ -1,0 +1,3 @@
+jmsapp/ejb/ProdutoEjb.class
+jmsapp/modelo/Produto.class
+jmsapp/jms/ConsumerJms.class
